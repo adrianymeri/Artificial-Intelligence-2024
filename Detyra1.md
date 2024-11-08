@@ -24,7 +24,7 @@ Për më shumë rreth Sudoku: [Kliko këtu](http://www.sudoku-space.com/sudoku.p
 
 **Kërkesa e detyrës:** Implemento Breadth First Search (BFS) dhe Backtracking për zgjidhjen e problemit
 
-### 2. Latin Square
+### 3. Latin Square
 
 **Përshkrimi**  
 Një katror latin është një grid n x n dimensional, i mbushur me n numra të ndryshëm, secili që shfaqet saktësisht një herë në çdo rresht dhe kolonë. 

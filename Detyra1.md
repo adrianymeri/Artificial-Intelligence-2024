@@ -31,12 +31,15 @@ Një katror latin është një grid n x n dimensional, i mbushur me n numra të 
 Duke pasur parasysh një hyrje n, ne duhet të printojmë një matricë n x n të përbërë nga numra nga 1 në n që secili shfaqet saktësisht një herë në çdo rresht dhe çdo kolonë.
 
 **Shembull:**
+
 **Hyrja:** 5 
+
 **Dalja:**
-1 2 3 4 5 
+```1 2 3 4 5 
 5 1 2 3 4 
 4 5 1 2 3 
 3 4 5 1 2 
 2 3 4 5 1
+```
 
 **Kërkesa e detyrës:** Implemento Iterative Deepeing Depth First Search (IDDFS) dhe Backtracking  

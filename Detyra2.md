@@ -6,10 +6,10 @@
 
 **Përshkrimi** https://shorturl.at/33eJo
 
-**Kërkesa e detyrës:** 
-● Aplikoni A Star (A*) algoritmin për zgjidhjen e këtij problemi!
-● Definoni te paktën tri heuristika për zgjidhjen e këtij problemi
-● Propozoni nje “admissible” heuristic duke u bazuar ne rezultatet e ofruara nga #2!
+**Kërkesa e detyrës:** <br/>
+● Aplikoni A Star (A*) algoritmin për zgjidhjen e këtij problemi!<br/>
+● Definoni te paktën tri heuristika për zgjidhjen e këtij problemi<br/>
+● Propozoni nje “admissible” heuristic duke u bazuar ne rezultatet e ofruara nga #2!<br/>
 
 
 ### 2. SAT Problem

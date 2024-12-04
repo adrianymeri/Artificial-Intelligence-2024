@@ -4,7 +4,7 @@
 
 ### 1. Blocked N-Queens Problem
 
-**Përshkrimi** https://www.csplib.org/Problems/prob080/#:~:text=The%20Blocked%20n%2DQueens%20problem,any%20of%20the%20blocked%20squares.
+**Përshkrimi** https://shorturl.at/33eJo
 
 **Kërkesa e detyrës:** 
 ● Aplikoni A Star (A*) algoritmin për zgjidhjen e këtij problemi!
@@ -19,7 +19,6 @@ Në një aheng janë ftuar 100 mysafirë. Mysafirët duhet të ulen në 10 tavol
 Supozoni se është dhënë lista e mysafirëve të cilët nuk mund të ulen në të njëjtën tavolinë. 
 Lista përbëhet nga çiftet e personave që nuk mund të ulen së bashku (p.sh. nëse lista përmban (M1, M5) - mysafirët, M1 dhe M5 nuk mund të ulen në të njëjtën tavolinë). 
 Gjithashtu supozoni se është dhënë lista e mysafireve që gjithsesi duhet të ulen në të njëjtën tavolinë. Qëllimi është që mysafirët të vendosen në tavolina ashtu që të plotësohen kushtet e dhëna më lartë.
-
 
 **Kërkesa e detyrës:** Të definohet SAT formula për zgjidhjen e këtij problemi.
 

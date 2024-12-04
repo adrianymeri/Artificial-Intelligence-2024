@@ -6,7 +6,7 @@
 
 **Përshkrimi** https://shorturl.at/33eJo
 
-**Kërkesa e detyrës:** <br/>
+**Kërkesat e detyrës:** <br/>
 ● Aplikoni A Star (A*) algoritmin për zgjidhjen e këtij problemi!<br/>
 ● Definoni te paktën tri heuristika për zgjidhjen e këtij problemi<br/>
 ● Propozoni nje “admissible” heuristic duke u bazuar ne rezultatet e ofruara nga #2!<br/>
